@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beritaku</string>
+    <string-array name="list_category">
+        <item>Politik</item>
+        <item>Sepakbola</item>
+        <item>Teknologi</item>
+    </string-array>
+</resources>
